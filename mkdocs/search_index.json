@@ -29,6 +29,16 @@
             "location": "/about/#about", 
             "text": "", 
             "title": "About"
+        }, 
+        {
+            "location": "/arduino/", 
+            "text": "Arduino", 
+            "title": "Arduino"
+        }, 
+        {
+            "location": "/arduino/#arduino", 
+            "text": "", 
+            "title": "Arduino"
         }
     ]
 }
