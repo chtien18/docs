@@ -22,13 +22,13 @@
         }, 
         {
             "location": "/about/", 
-            "text": "Welcome to MkDocs", 
+            "text": "About", 
             "title": "About"
         }, 
         {
-            "location": "/about/#welcome-to-mkdocs", 
+            "location": "/about/#about", 
             "text": "", 
-            "title": "Welcome to MkDocs"
+            "title": "About"
         }
     ]
 }
