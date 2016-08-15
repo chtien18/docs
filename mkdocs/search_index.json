@@ -39,6 +39,11 @@
             "location": "/arduino/#arduino", 
             "text": "", 
             "title": "Arduino"
+        }, 
+        {
+            "location": "/lib/", 
+            "text": "OPUS - Open Publication of UTS", 
+            "title": "Libraries"
         }
     ]
 }
