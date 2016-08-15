@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Tien Cao-hoang Docs\n\n\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-tien-cao-hoang-docs", 
-            "text": "", 
-            "title": "Welcome to Tien Cao-hoang Docs"
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
         }, 
         {
             "location": "/#commands", 
@@ -21,54 +21,14 @@
             "title": "Project layout"
         }, 
         {
-            "location": "/Bluemix/", 
-            "text": "IBM Bluemix", 
-            "title": "IBM Bluemix"
+            "location": "/about/", 
+            "text": "Welcome to MkDocs", 
+            "title": "About"
         }, 
         {
-            "location": "/Bluemix/#ibm-bluemix", 
+            "location": "/about/#welcome-to-mkdocs", 
             "text": "", 
-            "title": "IBM Bluemix"
-        }, 
-        {
-            "location": "/Heroku/", 
-            "text": "Heroku Platform", 
-            "title": "Heroku"
-        }, 
-        {
-            "location": "/Heroku/#heroku-platform", 
-            "text": "", 
-            "title": "Heroku Platform"
-        }, 
-        {
-            "location": "/Arduino/", 
-            "text": "Heroku Platform", 
-            "title": "Arduino"
-        }, 
-        {
-            "location": "/Arduino/#heroku-platform", 
-            "text": "", 
-            "title": "Heroku Platform"
-        }, 
-        {
-            "location": "/Raspberry/", 
-            "text": "Heroku Platform", 
-            "title": "Raspberry Pi"
-        }, 
-        {
-            "location": "/Raspberry/#heroku-platform", 
-            "text": "", 
-            "title": "Heroku Platform"
-        }, 
-        {
-            "location": "/Agrinode/", 
-            "text": "Heroku Platform", 
-            "title": "Agrinode"
-        }, 
-        {
-            "location": "/Agrinode/#heroku-platform", 
-            "text": "", 
-            "title": "Heroku Platform"
+            "title": "Welcome to MkDocs"
         }
     ]
 }

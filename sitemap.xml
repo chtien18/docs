@@ -4,51 +4,17 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-08-04</lastmod>
+     <lastmod>2016-08-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
-        
     <url>
-     <loc>None/Bluemix/</loc>
-     <lastmod>2016-08-04</lastmod>
+     <loc>None/about/</loc>
+     <lastmod>2016-08-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>None/Heroku/</loc>
-     <lastmod>2016-08-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/Arduino/</loc>
-     <lastmod>2016-08-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/Raspberry/</loc>
-     <lastmod>2016-08-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/Agrinode/</loc>
-     <lastmod>2016-08-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
 </urlset>
