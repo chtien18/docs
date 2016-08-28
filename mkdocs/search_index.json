@@ -29,6 +29,26 @@
             "location": "/about/#about", 
             "text": "", 
             "title": "About"
+        }, 
+        {
+            "location": "/sitewhere/", 
+            "text": "Internet of Things Platform\n\n\nSitewhere\n\n\n\n\nC\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows", 
+            "title": "Sitewhere"
+        }, 
+        {
+            "location": "/sitewhere/#internet-of-things-platform", 
+            "text": "", 
+            "title": "Internet of Things Platform"
+        }, 
+        {
+            "location": "/sitewhere/#sitewhere", 
+            "text": "", 
+            "title": "Sitewhere"
+        }, 
+        {
+            "location": "/sitewhere/#cai-at-sitewhere-tren-windows", 
+            "text": "", 
+            "title": "C\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows"
         }
     ]
 }
