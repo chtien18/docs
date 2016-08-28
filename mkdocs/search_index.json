@@ -52,7 +52,7 @@
         }, 
         {
             "location": "/jekyll/", 
-            "text": "T\u1ea1o Website v\u1edbi Jekyll\n\n\n\n\nC\u00e0i \u0111\u1eb7t tr\u00ean jekyll tr\u00ean Windows\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t RubyGem \n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Nodejs\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Python 2.7\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t jekyll\n\n\nM\u1edf CMD --\n \u0111\u00e1nh l\u1ec7nh \ngem install jekyll", 
+            "text": "T\u1ea1o Website v\u1edbi Jekyll\n\n\n\n\n1 C\u00e0i \u0111\u1eb7t jekyll tr\u00ean Windows\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t RubyGem \n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Nodejs\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Python 2.7\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t jekyll\n\n\nM\u1edf CMD --\n \u0111\u00e1nh l\u1ec7nh \ngem install jekyll\n\n\n\n\n\n\n2 B\u1eaft \u0111\u1ea7u t\u1ea1o website v\u1edbi Jekyll (Localhost)", 
             "title": "L\u1eadp tr\u00ecnh web v\u1edbi Jekyll"
         }, 
         {
@@ -61,9 +61,14 @@
             "title": "T\u1ea1o Website v\u1edbi Jekyll"
         }, 
         {
-            "location": "/jekyll/#cai-at-tren-jekyll-tren-windows", 
+            "location": "/jekyll/#1-cai-at-jekyll-tren-windows", 
             "text": "C\u00e0i \u0111\u1eb7t RubyGem     C\u00e0i \u0111\u1eb7t Nodejs    C\u00e0i \u0111\u1eb7t Python 2.7    C\u00e0i \u0111\u1eb7t jekyll  M\u1edf CMD --  \u0111\u00e1nh l\u1ec7nh  gem install jekyll", 
-            "title": "C\u00e0i \u0111\u1eb7t tr\u00ean jekyll tr\u00ean Windows"
+            "title": "1 C\u00e0i \u0111\u1eb7t jekyll tr\u00ean Windows"
+        }, 
+        {
+            "location": "/jekyll/#2-bat-au-tao-website-voi-jekyll-localhost", 
+            "text": "", 
+            "title": "2 B\u1eaft \u0111\u1ea7u t\u1ea1o website v\u1edbi Jekyll (Localhost)"
         }
     ]
 }
