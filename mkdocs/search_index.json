@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/sitewhere/", 
-            "text": "Internet of Things Platform\n\n\nSitewhere\n\n\n\n\nC\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows", 
+            "text": "Internet of Things Platform\n\n\nSitewhere\n\n\n\n\nC\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t mongodb\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t HiveMQ\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Sitewhere", 
             "title": "Sitewhere"
         }, 
         {
@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/sitewhere/#cai-at-sitewhere-tren-windows", 
-            "text": "", 
+            "text": "C\u00e0i \u0111\u1eb7t mongodb    C\u00e0i \u0111\u1eb7t HiveMQ    C\u00e0i \u0111\u1eb7t Sitewhere", 
             "title": "C\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows"
         }
     ]
