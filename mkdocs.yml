@@ -2,4 +2,6 @@ site_name: My Docs
 pages:
 - Home: index.md
 - About: about.md
+- Internet of Things:
+  - Sitewhere: sitewhere.md
 theme: readthedocs
