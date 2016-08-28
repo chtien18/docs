@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-08-16</lastmod>
+     <lastmod>2016-08-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,23 +12,7 @@
     
     <url>
      <loc>None/about/</loc>
-     <lastmod>2016-08-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/arduino/</loc>
-     <lastmod>2016-08-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/lib/</loc>
-     <lastmod>2016-08-16</lastmod>
+     <lastmod>2016-08-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     

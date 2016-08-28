@@ -29,21 +29,6 @@
             "location": "/about/#about", 
             "text": "", 
             "title": "About"
-        }, 
-        {
-            "location": "/arduino/", 
-            "text": "Arduino", 
-            "title": "Arduino"
-        }, 
-        {
-            "location": "/arduino/#arduino", 
-            "text": "", 
-            "title": "Arduino"
-        }, 
-        {
-            "location": "/lib/", 
-            "text": "OPUS - Open Publication of UTS\n\n\nNATIONAL LIBRARY OF AUSTRALIA", 
-            "title": "Libraries"
         }
     ]
 }
