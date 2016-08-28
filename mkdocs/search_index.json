@@ -49,6 +49,21 @@
             "location": "/sitewhere/#cai-at-sitewhere-tren-windows", 
             "text": "C\u00e0i \u0111\u1eb7t mongodb    C\u00e0i \u0111\u1eb7t HiveMQ    C\u00e0i \u0111\u1eb7t Sitewhere", 
             "title": "C\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows"
+        }, 
+        {
+            "location": "/jekyll/", 
+            "text": "T\u1ea1o Website v\u1edbi Jekyll\n\n\n\n\nC\u00e0i \u0111\u1eb7t tr\u00ean jekyll tr\u00ean Windows\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t RubyGem \n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Nodejs\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Python 2.7\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t jekyll\n\n\nM\u1edf CMD --\n \u0111\u00e1nh l\u1ec7nh \ngem install jekyll", 
+            "title": "L\u1eadp tr\u00ecnh web v\u1edbi Jekyll"
+        }, 
+        {
+            "location": "/jekyll/#tao-website-voi-jekyll", 
+            "text": "", 
+            "title": "T\u1ea1o Website v\u1edbi Jekyll"
+        }, 
+        {
+            "location": "/jekyll/#cai-at-tren-jekyll-tren-windows", 
+            "text": "C\u00e0i \u0111\u1eb7t RubyGem     C\u00e0i \u0111\u1eb7t Nodejs    C\u00e0i \u0111\u1eb7t Python 2.7    C\u00e0i \u0111\u1eb7t jekyll  M\u1edf CMD --  \u0111\u00e1nh l\u1ec7nh  gem install jekyll", 
+            "title": "C\u00e0i \u0111\u1eb7t tr\u00ean jekyll tr\u00ean Windows"
         }
     ]
 }
