@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Tien Cao-hoang\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to Tien Cao-hoang documentation site\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-tien-cao-hoang", 
+            "location": "/#welcome-to-tien-cao-hoang-documentation-site", 
             "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to Tien Cao-hoang"
+            "title": "Welcome to Tien Cao-hoang documentation site"
         }, 
         {
             "location": "/#commands", 
@@ -31,8 +31,23 @@
             "title": "About"
         }, 
         {
+            "location": "/raspberry/", 
+            "text": "Raspberry Pi\n\n\nC\u00e0i \u0111\u1eb7t WIFI cho Raspberry Pi b\u1eb1ng CMD\n\n\n\n\n\n\nK\u1ebft n\u1ed1i Raspberry --\n PC b\u1eb1ng Putty.\n\n\n\n\n\n\nTrong CMD Putty \u0111\u00e1nh l\u1ec7nh: \nsudo nano /etc/network/interfaces", 
+            "title": "Rasberry Pi"
+        }, 
+        {
+            "location": "/raspberry/#raspberry-pi", 
+            "text": "", 
+            "title": "Raspberry Pi"
+        }, 
+        {
+            "location": "/raspberry/#cai-at-wifi-cho-raspberry-pi-bang-cmd", 
+            "text": "K\u1ebft n\u1ed1i Raspberry --  PC b\u1eb1ng Putty.    Trong CMD Putty \u0111\u00e1nh l\u1ec7nh:  sudo nano /etc/network/interfaces", 
+            "title": "C\u00e0i \u0111\u1eb7t WIFI cho Raspberry Pi b\u1eb1ng CMD"
+        }, 
+        {
             "location": "/sitewhere/", 
-            "text": "Internet of Things Platform\n\n\nSitewhere\n\n\n\n\nC\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows", 
+            "text": "Internet of Things Platform\n\n\nSitewhere\n\n\n\n\nC\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t mongodb\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t HiveMQ\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Sitewhere", 
             "title": "Sitewhere"
         }, 
         {
@@ -47,8 +62,28 @@
         }, 
         {
             "location": "/sitewhere/#cai-at-sitewhere-tren-windows", 
-            "text": "", 
+            "text": "C\u00e0i \u0111\u1eb7t mongodb    C\u00e0i \u0111\u1eb7t HiveMQ    C\u00e0i \u0111\u1eb7t Sitewhere", 
             "title": "C\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows"
+        }, 
+        {
+            "location": "/jekyll/", 
+            "text": "T\u1ea1o Website v\u1edbi Jekyll\n\n\n\n\n1 C\u00e0i \u0111\u1eb7t jekyll tr\u00ean Windows\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Ruby \n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Nodejs\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Python 2.7\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t jekyll\n\n\nM\u1edf CMD --\n \u0111\u00e1nh l\u1ec7nh \ngem install jekyll\n\n\n\n\n\n\n2 B\u1eaft \u0111\u1ea7u t\u1ea1o website v\u1edbi Jekyll (Localhost)\n\n\n\n\nTruy c\u1eadp \njekyllthemes.org\n \u0111\u1ec3 ch\u1ecdn giao di\u1ec7n cho Web. \n T\u00ecm m\u1ee5c Github \u0111\u1ec3 l\u1ea5y code.", 
+            "title": "L\u1eadp tr\u00ecnh web v\u1edbi Jekyll"
+        }, 
+        {
+            "location": "/jekyll/#tao-website-voi-jekyll", 
+            "text": "", 
+            "title": "T\u1ea1o Website v\u1edbi Jekyll"
+        }, 
+        {
+            "location": "/jekyll/#1-cai-at-jekyll-tren-windows", 
+            "text": "C\u00e0i \u0111\u1eb7t Ruby     C\u00e0i \u0111\u1eb7t Nodejs    C\u00e0i \u0111\u1eb7t Python 2.7    C\u00e0i \u0111\u1eb7t jekyll  M\u1edf CMD --  \u0111\u00e1nh l\u1ec7nh  gem install jekyll", 
+            "title": "1 C\u00e0i \u0111\u1eb7t jekyll tr\u00ean Windows"
+        }, 
+        {
+            "location": "/jekyll/#2-bat-au-tao-website-voi-jekyll-localhost", 
+            "text": "Truy c\u1eadp  jekyllthemes.org  \u0111\u1ec3 ch\u1ecdn giao di\u1ec7n cho Web.   T\u00ecm m\u1ee5c Github \u0111\u1ec3 l\u1ea5y code.", 
+            "title": "2 B\u1eaft \u0111\u1ea7u t\u1ea1o website v\u1edbi Jekyll (Localhost)"
         }
     ]
 }

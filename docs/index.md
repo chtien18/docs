@@ -1,4 +1,4 @@
-# Welcome to Tien Cao-hoang
+# Welcome to Tien Cao-hoang documentation site
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 

@@ -2,6 +2,13 @@ site_name: My Docs
 pages:
 - Home: index.md
 - About: about.md
+- Hardware:
+  - Rasberry Pi: raspberry.md
 - Internet of Things:
   - Sitewhere: sitewhere.md
+- Lập trình web:
+  - Lập trình web với Jekyll: jekyll.md
+  
+-Agrinode project: 
+  - Devices list: agrinode_devices_list.md
 theme: readthedocs
