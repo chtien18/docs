@@ -89,6 +89,16 @@
             "location": "/agrinode_devices_list/", 
             "text": "STT\n\n\nT\u00ean thi\u1ebft b\u1ecb\n\n\nGi\u00e1\n\n\n\n\n\n\n\n\n\n\n1\n\n\nIntel D2000\n\n\n$15\n\n\n\n\n\n\n2\n\n\nFona\n\n\n$45\n\n\n\n\n\n\n3\n\n\nCDT sensor\n\n\n$", 
             "title": "Devices list"
+        }, 
+        {
+            "location": "/links/", 
+            "text": "Website c\u1ea3m bi\u1ebfn\n\n\n\n\nC\u1ea3m bi\u1ebfn ph, ec, temp, anemometer,... \nVernier.com", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/links/#website-cam-bien", 
+            "text": "C\u1ea3m bi\u1ebfn ph, ec, temp, anemometer,...  Vernier.com", 
+            "title": "Website c\u1ea3m bi\u1ebfn"
         }
     ]
 }
