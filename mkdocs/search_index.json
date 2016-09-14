@@ -67,7 +67,7 @@
         }, 
         {
             "location": "/jekyll/", 
-            "text": "T\u1ea1o Website v\u1edbi Jekyll\n\n\n\n\n1 C\u00e0i \u0111\u1eb7t jekyll tr\u00ean Windows\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Ruby \n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Nodejs\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Python 2.7\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t jekyll\n\n\nM\u1edf CMD --\n \u0111\u00e1nh l\u1ec7nh \ngem install jekyll\n\n\n\n\n\n\n2 B\u1eaft \u0111\u1ea7u t\u1ea1o website v\u1edbi Jekyll (Localhost)\n\n\n\n\nTruy c\u1eadp \njekyllthemes.org\n \u0111\u1ec3 ch\u1ecdn giao di\u1ec7n cho Web. \n T\u00ecm m\u1ee5c Github \u0111\u1ec3 l\u1ea5y code.", 
+            "text": "T\u1ea1o Website v\u1edbi Jekyll\n\n\n\n\n1 - C\u00e0i \u0111\u1eb7t jekyll tr\u00ean Windows\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Ruby \n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Nodejs\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Python 2.7\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t DevKit\n\n\n\n\nDownload Devkit (ch\u1ecdn g\u00f3i DevKit ph\u00f9 h\u1ee3p v\u1edbi OS : 32bit hay 64bit)\n\n\nCh\u1ea1y file: \nDevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe\n \u0111\u1ec3 gi\u1ea3i n\u00e9n.\n\n\nM\u1edf CMD (run as admin) cd \u0111\u1ebfn th\u01b0 m\u1ee5c v\u1eeba gi\u1ea3i n\u00e9n. \u0110\u00e1nh l\u1ec7nh \nruby dk.rb init\n v\u00e0 `ruby dk.rb install' \n\n\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t jekyll\n\n\nM\u1edf CMD --\n \u0111\u00e1nh l\u1ec7nh \ngem install bundler' v\u00e0\ngem install jekyll`\n\n\n\n\n\n\n2 - B\u1eaft \u0111\u1ea7u t\u1ea1o website v\u1edbi Jekyll (Localhost)\n\n\n\n\n\n\nTruy c\u1eadp \njekyllthemes.org\n \u0111\u1ec3 ch\u1ecdn giao di\u1ec7n cho Web. \n T\u00ecm m\u1ee5c Github \u0111\u1ec3 download code.\n\n\n\n\n\n\nSau \u0111\u00f3 gi\u1ea3i n\u00e9n", 
             "title": "L\u1eadp tr\u00ecnh web v\u1edbi Jekyll"
         }, 
         {
@@ -77,13 +77,13 @@
         }, 
         {
             "location": "/jekyll/#1-cai-at-jekyll-tren-windows", 
-            "text": "C\u00e0i \u0111\u1eb7t Ruby     C\u00e0i \u0111\u1eb7t Nodejs    C\u00e0i \u0111\u1eb7t Python 2.7    C\u00e0i \u0111\u1eb7t jekyll  M\u1edf CMD --  \u0111\u00e1nh l\u1ec7nh  gem install jekyll", 
-            "title": "1 C\u00e0i \u0111\u1eb7t jekyll tr\u00ean Windows"
+            "text": "C\u00e0i \u0111\u1eb7t Ruby     C\u00e0i \u0111\u1eb7t Nodejs    C\u00e0i \u0111\u1eb7t Python 2.7    C\u00e0i \u0111\u1eb7t DevKit   Download Devkit (ch\u1ecdn g\u00f3i DevKit ph\u00f9 h\u1ee3p v\u1edbi OS : 32bit hay 64bit)  Ch\u1ea1y file:  DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe  \u0111\u1ec3 gi\u1ea3i n\u00e9n.  M\u1edf CMD (run as admin) cd \u0111\u1ebfn th\u01b0 m\u1ee5c v\u1eeba gi\u1ea3i n\u00e9n. \u0110\u00e1nh l\u1ec7nh  ruby dk.rb init  v\u00e0 `ruby dk.rb install'      C\u00e0i \u0111\u1eb7t jekyll  M\u1edf CMD --  \u0111\u00e1nh l\u1ec7nh  gem install bundler' v\u00e0 gem install jekyll`", 
+            "title": "1 - C\u00e0i \u0111\u1eb7t jekyll tr\u00ean Windows"
         }, 
         {
             "location": "/jekyll/#2-bat-au-tao-website-voi-jekyll-localhost", 
-            "text": "Truy c\u1eadp  jekyllthemes.org  \u0111\u1ec3 ch\u1ecdn giao di\u1ec7n cho Web.   T\u00ecm m\u1ee5c Github \u0111\u1ec3 l\u1ea5y code.", 
-            "title": "2 B\u1eaft \u0111\u1ea7u t\u1ea1o website v\u1edbi Jekyll (Localhost)"
+            "text": "Truy c\u1eadp  jekyllthemes.org  \u0111\u1ec3 ch\u1ecdn giao di\u1ec7n cho Web.   T\u00ecm m\u1ee5c Github \u0111\u1ec3 download code.    Sau \u0111\u00f3 gi\u1ea3i n\u00e9n", 
+            "title": "2 - B\u1eaft \u0111\u1ea7u t\u1ea1o website v\u1edbi Jekyll (Localhost)"
         }, 
         {
             "location": "/agrinode_devices_list/", 
