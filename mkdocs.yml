@@ -4,11 +4,16 @@ pages:
 - About: about.md
 - Hardware:
   - Rasberry Pi: raspberry.md
+
 - Internet of Things:
   - Sitewhere: sitewhere.md
+  
 - Lập trình web:
   - Lập trình web với Jekyll: jekyll.md
-  
--Agrinode project: 
+
+- Agrinode project: 
   - Devices list: agrinode_devices_list.md
+
+- Links: links.md
+
 theme: readthedocs

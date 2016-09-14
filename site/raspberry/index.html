@@ -8,7 +8,7 @@
   
   
   
-  <title>Sitewhere - My Docs</title>
+  <title>Rasberry Pi - My Docs</title>
   
 
   <link rel="shortcut icon" href="../img/favicon.ico">
@@ -23,9 +23,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Sitewhere";
-    var mkdocs_page_input_path = "sitewhere.md";
-    var mkdocs_page_url = "/sitewhere/";
+    var mkdocs_page_name = "Rasberry Pi";
+    var mkdocs_page_input_path = "raspberry.md";
+    var mkdocs_page_url = "/raspberry/";
   </script>
   
   <script src="../js/jquery-2.1.1.min.js"></script>
@@ -74,8 +74,17 @@
 
         
             
-    <li class="toctree-l1 ">
-        <a class="" href="../raspberry/">Rasberry Pi</a>
+    <li class="toctree-l1 current">
+        <a class="current" href="./">Rasberry Pi</a>
+        
+            <ul>
+            
+                <li class="toctree-l3"><a href="#raspberry-pi">Raspberry Pi</a></li>
+                
+                    <li><a class="toctree-l4" href="#cai-at-wifi-cho-raspberry-pi-bang-cmd">Cài đặt WIFI cho Raspberry Pi bằng CMD</a></li>
+                
+            
+            </ul>
         
     </li>
 
@@ -89,19 +98,8 @@
 
         
             
-    <li class="toctree-l1 current">
-        <a class="current" href="./">Sitewhere</a>
-        
-            <ul>
-            
-                <li class="toctree-l3"><a href="#internet-of-things-platform">Internet of Things Platform</a></li>
-                
-                    <li><a class="toctree-l4" href="#sitewhere">Sitewhere</a></li>
-                
-                    <li><a class="toctree-l4" href="#cai-at-sitewhere-tren-windows">Cài đặt Sitewhere trên Windows</a></li>
-                
-            
-            </ul>
+    <li class="toctree-l1 ">
+        <a class="" href="../sitewhere/">Sitewhere</a>
         
     </li>
 
@@ -168,11 +166,11 @@
     
       
         
-          <li>Internet of Things &raquo;</li>
+          <li>Hardware &raquo;</li>
         
       
     
-    <li>Sitewhere</li>
+    <li>Rasberry Pi</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -182,22 +180,17 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="internet-of-things-platform">Internet of Things Platform</h1>
-<h2 id="sitewhere">Sitewhere</h2>
-<p><img alt="Sitewhere" src="http://www.sitewhere.org/wp-content/uploads/2015/07/sitewhere-small.png" /></p>
-<h2 id="cai-at-sitewhere-tren-windows">Cài đặt Sitewhere trên Windows</h2>
+                <h2 id="raspberry-pi">Raspberry Pi</h2>
+<h3 id="cai-at-wifi-cho-raspberry-pi-bang-cmd">Cài đặt WIFI cho Raspberry Pi bằng CMD</h3>
 <ul>
 <li>
-<p>Cài đặt mongodb</p>
+<p>Kết nối Raspberry --&gt; PC bằng Putty.</p>
 </li>
 <li>
-<p>Cài đặt HiveMQ</p>
-</li>
-<li>
-<p>Cài đặt Sitewhere</p>
+<p>Trong CMD Putty đánh lệnh: <code>sudo nano /etc/network/interfaces</code></p>
 </li>
 </ul>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-3UR-MuKgE" frameborder="0" allowfullscreen></iframe>
+<p><img alt="hinh" src="https://cdn-learn.adafruit.com/assets/assets/000/002/928/medium800/learn_raspberry_pi_occ_1.png?1396789028" /></p>
               
             </div>
           </div>
@@ -205,10 +198,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../jekyll/" class="btn btn-neutral float-right" title="Lập trình web với Jekyll">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../sitewhere/" class="btn btn-neutral float-right" title="Sitewhere">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../raspberry/" class="btn btn-neutral" title="Rasberry Pi"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../about/" class="btn btn-neutral" title="About"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -234,10 +227,10 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../raspberry/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../about/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../jekyll/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../sitewhere/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
