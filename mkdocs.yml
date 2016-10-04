@@ -1,14 +1,14 @@
-site_name: My Docs
+site_name: Tien Cao-hoang
 pages:
 - Home: index.md
 - About: about.md
-- Hardware:
+- HARDWARE:
   - Rasberry Pi: raspberry.md
 
-- Internet of Things:
+- INTERNET OF THINGS:
   - Sitewhere: sitewhere.md
   
-- Lập trình web:
+- LẬP TRÌNH WEB:
   - Lập trình web với Jekyll: jekyll.md
 
 - Agrinode project: 
