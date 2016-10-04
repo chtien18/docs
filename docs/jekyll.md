@@ -14,7 +14,7 @@
 
     - Download Devkit (chọn gói DevKit phù hợp với OS : 32bit hay 64bit)
     - Chạy file: `DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe` để giải nén.
-    - Mở CMD (run as admin) cd đến thư mục vừa giải nén. Đánh lệnh `ruby dk.rb init` và `ruby dk.rb install' 
+    - Mở CMD (run as admin) cd đến thư mục vừa giải nén. Đánh lệnh `ruby dk.rb init` và `ruby dk.rb install`
                
 
 * Cài đặt jekyll
@@ -25,4 +25,8 @@
 
 * Truy cập [jekyllthemes.org](http://jekyllthemes.org) để chọn giao diện cho Web. >> Tìm mục Github để download code.
 
-* Sau đó giải nén 
+* Sau đó giải nén --> vào thư mục vừa giải nén
+
+* Right Click --> `Git bash here` --> Sau đó đánh lệnh: `bundle install` --> tiếp theo đánh lệnh `bundle exec jekyll serve`
+
+* Khi đó website sẽ chạy với server: `http://localhost:4000`
