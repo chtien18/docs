@@ -1,8 +1,10 @@
 # Welcome to Tien Cao-hoang documentation site
 
-** Webpage: [http://chtien.xyz](http://chtien.xyz)
+### Webpage: [http://chtien.xyz](http://chtien.xyz)
 
-** Email: chtien@ctu.edu.vn
+### Email: chtien@ctu.edu.vn
+
+"Website này được xây dựng trên nền tản mkdocs"
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
