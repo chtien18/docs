@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Tien Cao-hoang documentation site\n\n\nWebpage: \nhttp://chtien.xyz\n\n\nEmail: chtien@ctu.edu.vn\n\n\n\"Website n\u00e0y \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng tr\u00ean n\u1ec1n t\u1ea3n mkdocs\"\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to Tien Cao-hoang documentation site\n\n\nWebpage: \nhttp://chtien.xyz\n\n\nWebsite n\u00e0y \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng tr\u00ean n\u1ec1n t\u1ea3n mkdocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
@@ -12,13 +12,8 @@
         }, 
         {
             "location": "/#webpage-httpchtienxyz", 
-            "text": "", 
+            "text": "Website n\u00e0y \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng tr\u00ean n\u1ec1n t\u1ea3n mkdocs  For full documentation visit  mkdocs.org .", 
             "title": "Webpage: http://chtien.xyz"
-        }, 
-        {
-            "location": "/#email-chtienctueduvn", 
-            "text": "\"Website n\u00e0y \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng tr\u00ean n\u1ec1n t\u1ea3n mkdocs\"  For full documentation visit  mkdocs.org .", 
-            "title": "Email: chtien@ctu.edu.vn"
         }, 
         {
             "location": "/#commands", 
@@ -41,57 +36,57 @@
             "title": "About"
         }, 
         {
-            "location": "/raspberry/", 
+            "location": "/hardware/raspberry/", 
             "text": "Raspberry Pi\n\n\nC\u00e0i \u0111\u1eb7t WIFI cho Raspberry Pi b\u1eb1ng CMD\n\n\n\n\n\n\nK\u1ebft n\u1ed1i Raspberry --\n PC b\u1eb1ng Putty.\n\n\n\n\n\n\nTrong CMD Putty \u0111\u00e1nh l\u1ec7nh: \nsudo nano /etc/network/interfaces", 
             "title": "Rasberry Pi"
         }, 
         {
-            "location": "/raspberry/#raspberry-pi", 
+            "location": "/hardware/raspberry/#raspberry-pi", 
             "text": "", 
             "title": "Raspberry Pi"
         }, 
         {
-            "location": "/raspberry/#cai-at-wifi-cho-raspberry-pi-bang-cmd", 
+            "location": "/hardware/raspberry/#cai-at-wifi-cho-raspberry-pi-bang-cmd", 
             "text": "K\u1ebft n\u1ed1i Raspberry --  PC b\u1eb1ng Putty.    Trong CMD Putty \u0111\u00e1nh l\u1ec7nh:  sudo nano /etc/network/interfaces", 
             "title": "C\u00e0i \u0111\u1eb7t WIFI cho Raspberry Pi b\u1eb1ng CMD"
         }, 
         {
-            "location": "/sitewhere/", 
+            "location": "/IoT/sitewhere/", 
             "text": "Internet of Things Platform\n\n\nSitewhere\n\n\n\n\nC\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t mongodb\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t HiveMQ\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Sitewhere", 
             "title": "Sitewhere"
         }, 
         {
-            "location": "/sitewhere/#internet-of-things-platform", 
+            "location": "/IoT/sitewhere/#internet-of-things-platform", 
             "text": "", 
             "title": "Internet of Things Platform"
         }, 
         {
-            "location": "/sitewhere/#sitewhere", 
+            "location": "/IoT/sitewhere/#sitewhere", 
             "text": "", 
             "title": "Sitewhere"
         }, 
         {
-            "location": "/sitewhere/#cai-at-sitewhere-tren-windows", 
+            "location": "/IoT/sitewhere/#cai-at-sitewhere-tren-windows", 
             "text": "C\u00e0i \u0111\u1eb7t mongodb    C\u00e0i \u0111\u1eb7t HiveMQ    C\u00e0i \u0111\u1eb7t Sitewhere", 
             "title": "C\u00e0i \u0111\u1eb7t Sitewhere tr\u00ean Windows"
         }, 
         {
-            "location": "/jekyll/", 
+            "location": "/web/jekyll/", 
             "text": "T\u1ea1o Website v\u1edbi Jekyll\n\n\n\n\n1 - C\u00e0i \u0111\u1eb7t jekyll tr\u00ean Windows\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Ruby \n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Nodejs\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t Python 2.7\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t DevKit\n\n\n\n\nDownload Devkit (ch\u1ecdn g\u00f3i DevKit ph\u00f9 h\u1ee3p v\u1edbi OS : 32bit hay 64bit)\n\n\nCh\u1ea1y file: \nDevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe\n \u0111\u1ec3 gi\u1ea3i n\u00e9n.\n\n\nM\u1edf CMD (run as admin) cd \u0111\u1ebfn th\u01b0 m\u1ee5c v\u1eeba gi\u1ea3i n\u00e9n. \u0110\u00e1nh l\u1ec7nh \nruby dk.rb init\n v\u00e0 \nruby dk.rb install\n\n\n\n\n\n\n\n\nC\u00e0i \u0111\u1eb7t jekyll\n\n\nM\u1edf CMD --\n \u0111\u00e1nh l\u1ec7nh \ngem install bundler' v\u00e0\ngem install jekyll`\n\n\n\n\n\n\n2 - B\u1eaft \u0111\u1ea7u t\u1ea1o website v\u1edbi Jekyll (Localhost)\n\n\n\n\n\n\nTruy c\u1eadp \njekyllthemes.org\n \u0111\u1ec3 ch\u1ecdn giao di\u1ec7n cho Web. \n T\u00ecm m\u1ee5c Github \u0111\u1ec3 download code.\n\n\n\n\n\n\nSau \u0111\u00f3 gi\u1ea3i n\u00e9n --\n v\u00e0o th\u01b0 m\u1ee5c v\u1eeba gi\u1ea3i n\u00e9n\n\n\n\n\n\n\nRight Click --\n \nGit bash here\n --\n Sau \u0111\u00f3 \u0111\u00e1nh l\u1ec7nh: \nbundle install\n --\n ti\u1ebfp theo \u0111\u00e1nh l\u1ec7nh \nbundle exec jekyll serve\n\n\n\n\n\n\nKhi \u0111\u00f3 website s\u1ebd ch\u1ea1y v\u1edbi server: \nhttp://localhost:4000", 
             "title": "L\u1eadp tr\u00ecnh web v\u1edbi Jekyll"
         }, 
         {
-            "location": "/jekyll/#tao-website-voi-jekyll", 
+            "location": "/web/jekyll/#tao-website-voi-jekyll", 
             "text": "", 
             "title": "T\u1ea1o Website v\u1edbi Jekyll"
         }, 
         {
-            "location": "/jekyll/#1-cai-at-jekyll-tren-windows", 
+            "location": "/web/jekyll/#1-cai-at-jekyll-tren-windows", 
             "text": "C\u00e0i \u0111\u1eb7t Ruby     C\u00e0i \u0111\u1eb7t Nodejs    C\u00e0i \u0111\u1eb7t Python 2.7    C\u00e0i \u0111\u1eb7t DevKit   Download Devkit (ch\u1ecdn g\u00f3i DevKit ph\u00f9 h\u1ee3p v\u1edbi OS : 32bit hay 64bit)  Ch\u1ea1y file:  DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe  \u0111\u1ec3 gi\u1ea3i n\u00e9n.  M\u1edf CMD (run as admin) cd \u0111\u1ebfn th\u01b0 m\u1ee5c v\u1eeba gi\u1ea3i n\u00e9n. \u0110\u00e1nh l\u1ec7nh  ruby dk.rb init  v\u00e0  ruby dk.rb install     C\u00e0i \u0111\u1eb7t jekyll  M\u1edf CMD --  \u0111\u00e1nh l\u1ec7nh  gem install bundler' v\u00e0 gem install jekyll`", 
             "title": "1 - C\u00e0i \u0111\u1eb7t jekyll tr\u00ean Windows"
         }, 
         {
-            "location": "/jekyll/#2-bat-au-tao-website-voi-jekyll-localhost", 
+            "location": "/web/jekyll/#2-bat-au-tao-website-voi-jekyll-localhost", 
             "text": "Truy c\u1eadp  jekyllthemes.org  \u0111\u1ec3 ch\u1ecdn giao di\u1ec7n cho Web.   T\u00ecm m\u1ee5c Github \u0111\u1ec3 download code.    Sau \u0111\u00f3 gi\u1ea3i n\u00e9n --  v\u00e0o th\u01b0 m\u1ee5c v\u1eeba gi\u1ea3i n\u00e9n    Right Click --   Git bash here  --  Sau \u0111\u00f3 \u0111\u00e1nh l\u1ec7nh:  bundle install  --  ti\u1ebfp theo \u0111\u00e1nh l\u1ec7nh  bundle exec jekyll serve    Khi \u0111\u00f3 website s\u1ebd ch\u1ea1y v\u1edbi server:  http://localhost:4000", 
             "title": "2 - B\u1eaft \u0111\u1ea7u t\u1ea1o website v\u1edbi Jekyll (Localhost)"
         }, 

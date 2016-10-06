@@ -20,7 +20,7 @@
     
         
     <url>
-     <loc>None/raspberry/</loc>
+     <loc>None/hardware/raspberry/</loc>
      <lastmod>2016-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -30,7 +30,7 @@
     
         
     <url>
-     <loc>None/sitewhere/</loc>
+     <loc>None/IoT/sitewhere/</loc>
      <lastmod>2016-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -40,7 +40,7 @@
     
         
     <url>
-     <loc>None/jekyll/</loc>
+     <loc>None/web/jekyll/</loc>
      <lastmod>2016-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
