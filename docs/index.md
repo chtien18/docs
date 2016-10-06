@@ -2,9 +2,7 @@
 
 ### Webpage: [http://chtien.xyz](http://chtien.xyz)
 
-### Email: chtien@ctu.edu.vn
-
-"Website này được xây dựng trên nền tản mkdocs"
+Website này được xây dựng trên nền tản mkdocs
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 

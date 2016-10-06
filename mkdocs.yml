@@ -3,13 +3,13 @@ pages:
 - Home: index.md
 - About: about.md
 - HARDWARE:
-  - Rasberry Pi: raspberry.md
+  - Rasberry Pi: hardware/raspberry.md
 
 - INTERNET OF THINGS:
-  - Sitewhere: sitewhere.md
+  - Sitewhere: IoT/sitewhere.md
   
 - LẬP TRÌNH WEB:
-  - Lập trình web với Jekyll: jekyll.md
+  - Lập trình web với Jekyll: web/jekyll.md
 
 - Agrinode project: 
   - Devices list: agrinode_devices_list.md
@@ -17,3 +17,5 @@ pages:
 - Links: links.md
 
 theme: readthedocs
+
+copyright: Copyright &copy; 2016 <a href="http://chtien.xyz"> Tien Cao-hoang (http://chtien.xyz)</a>
