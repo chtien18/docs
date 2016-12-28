@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Tien Cao-hoang documentation site\n\n\nWebpage: \nhttp://chtien.xyz\n\n\nWebsite n\u00e0y \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng tr\u00ean n\u1ec1n t\u1ea3n mkdocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to Tien Cao-hoang documentation site\n\n\nWebpage: \nhttp://chtien18.github.io\n\n\nWebsite n\u00e0y \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng tr\u00ean n\u1ec1n t\u1ea3n mkdocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
@@ -11,9 +11,9 @@
             "title": "Welcome to Tien Cao-hoang documentation site"
         }, 
         {
-            "location": "/#webpage-httpchtienxyz", 
+            "location": "/#webpage-httpchtien18githubio", 
             "text": "Website n\u00e0y \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng tr\u00ean n\u1ec1n t\u1ea3n mkdocs  For full documentation visit  mkdocs.org .", 
-            "title": "Webpage: http://chtien.xyz"
+            "title": "Webpage: http://chtien18.github.io"
         }, 
         {
             "location": "/#commands", 
@@ -27,12 +27,12 @@
         }, 
         {
             "location": "/about/", 
-            "text": "About\n\n\n\n\n\n\nWebsite \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng nh\u1eb1m m\u1ee5c \u0111\u00edch chia s\u1ebd t\u00e0i li\u1ec7u h\u1ecdc t\u1eadp.\n\n\nB\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng t\u00e0i li\u1ec7u n\u00e0y cho m\u1ee5c \u0111\u00edch h\u1ecdc t\u1eadp, n\u1ebfu c\u00f3 s\u1eed d\u1ee5ng ho\u1eb7c sao ch\u00e9p (copy) vui l\u00f2ng ghi ngu\u1ed3n: \nhttp://chtien.xyz", 
+            "text": "About\n\n\n\n\n\n\nWebsite \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng nh\u1eb1m m\u1ee5c \u0111\u00edch chia s\u1ebd t\u00e0i li\u1ec7u h\u1ecdc t\u1eadp.\n\n\nB\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng t\u00e0i li\u1ec7u n\u00e0y cho m\u1ee5c \u0111\u00edch h\u1ecdc t\u1eadp, n\u1ebfu c\u00f3 s\u1eed d\u1ee5ng ho\u1eb7c sao ch\u00e9p (copy) vui l\u00f2ng ghi ngu\u1ed3n: \nhttp://chtien18.github.io", 
             "title": "About"
         }, 
         {
             "location": "/about/#about", 
-            "text": "Website \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng nh\u1eb1m m\u1ee5c \u0111\u00edch chia s\u1ebd t\u00e0i li\u1ec7u h\u1ecdc t\u1eadp.  B\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng t\u00e0i li\u1ec7u n\u00e0y cho m\u1ee5c \u0111\u00edch h\u1ecdc t\u1eadp, n\u1ebfu c\u00f3 s\u1eed d\u1ee5ng ho\u1eb7c sao ch\u00e9p (copy) vui l\u00f2ng ghi ngu\u1ed3n:  http://chtien.xyz", 
+            "text": "Website \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng nh\u1eb1m m\u1ee5c \u0111\u00edch chia s\u1ebd t\u00e0i li\u1ec7u h\u1ecdc t\u1eadp.  B\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng t\u00e0i li\u1ec7u n\u00e0y cho m\u1ee5c \u0111\u00edch h\u1ecdc t\u1eadp, n\u1ebfu c\u00f3 s\u1eed d\u1ee5ng ho\u1eb7c sao ch\u00e9p (copy) vui l\u00f2ng ghi ngu\u1ed3n:  http://chtien18.github.io", 
             "title": "About"
         }, 
         {
@@ -97,13 +97,18 @@
         }, 
         {
             "location": "/links/", 
-            "text": "Website c\u1ea3m bi\u1ebfn\n\n\n\n\nC\u1ea3m bi\u1ebfn ph, ec, temp, anemometer,... \nVernier.com", 
+            "text": "Website c\u1ea3m bi\u1ebfn\n\n\n\n\nC\u1ea3m bi\u1ebfn ph, ec, temp, anemometer,... \nVernier.com\n\n\n\n\nKi\u1ec3m tra v\u0103n b\u1eb1ng tin h\u1ecdc, ngo\u1ea1i ng\u1eef CTU\n\n\n\n\nhttps://qlvb.ctu.edu.vn/", 
             "title": "Links"
         }, 
         {
             "location": "/links/#website-cam-bien", 
             "text": "C\u1ea3m bi\u1ebfn ph, ec, temp, anemometer,...  Vernier.com", 
             "title": "Website c\u1ea3m bi\u1ebfn"
+        }, 
+        {
+            "location": "/links/#kiem-tra-van-bang-tin-hoc-ngoai-ngu-ctu", 
+            "text": "https://qlvb.ctu.edu.vn/", 
+            "title": "Ki\u1ec3m tra v\u0103n b\u1eb1ng tin h\u1ecdc, ngo\u1ea1i ng\u1eef CTU"
         }
     ]
 }
